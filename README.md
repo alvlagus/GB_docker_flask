@@ -22,7 +22,7 @@ https://drive.google.com/file/d/1vsAYoiqhdhpqm-vJkixHv0OHTVm7QqPy/view?usp=share
 ### Клонируем репозиторий и создаем образ
 ```
 $ git clone https://github.com/alvlagus/GB_docker_flask.git
-$ cd GB_docker_flask_example
+$ cd GB_docker_flask_project
 $ docker build -t alvlagus/gb_docker_flask_project .
 ```
 
